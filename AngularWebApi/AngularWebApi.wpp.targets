@@ -3,7 +3,7 @@
     xmlns="http://schemas.microsoft.com/developer/msbuild/2003" >  
   <ItemGroup>   
     <ExcludeFromPackageFolders Include="angularApp">
-      <FromTarget>VehicleTracking.wpp.targets</FromTarget>
+      <FromTarget>AngularWebApi.wpp.targets</FromTarget>
     </ExcludeFromPackageFolders>   
   <ExcludeFromPackageFiles Include="package.json;
                            tsconfig-aot.json;
@@ -14,7 +14,7 @@
                            webpack.helpers.js;
                            webpack.prod.js;
                            VehicleTracking.wpp.targets">
-  <FromTarget>VehicleTracking.wpp.targets</FromTarget>
+  <FromTarget>AngularWebApi.wpp.targets</FromTarget>
   </ExcludeFromPackageFiles>
   </ItemGroup>
 </Project>

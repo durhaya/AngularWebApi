@@ -163,7 +163,7 @@
     <Content Include="tsconfig-aot.json" />
     <Content Include="tsconfig.json" />
     <Content Include="tslint.json" />
-    <Content Include="VehicleTracking.wpp.targets" />
+    <Content Include="AngularWebApi.wpp.targets" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

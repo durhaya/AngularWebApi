@@ -8,3 +8,15 @@
 /AngularWebApi/assets
 /AngularWebApi/dist
 /packages
+/AngularWebApi/angularApp/app/about/components/about.component.js.map
+/AngularWebApi/angularApp/app/about/components/about.component.js
+/AngularWebApi/angularApp/app/core/services/thing-data.service.js.map
+/AngularWebApi/angularApp/app/core/services/thing-data.service.js
+/AngularWebApi/angularApp/app/about/about.routes.js
+*.map
+*.js
+/AngularWebApi/bin
+/AngularWebApi/obj/Release
+/AngularWebApi/index.html
+/Repositiories/bin/Debug
+/Repositiories/obj/Release
