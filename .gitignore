@@ -3,3 +3,8 @@
 ################################################################################
 
 /AngularWebApi/obj/Debug
+/Repositiories/obj/Debug
+/AngularWebApi/node_modules
+/AngularWebApi/assets
+/AngularWebApi/dist
+/packages
