@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOwwcr8Gx70iBk4u+Va4LkQAAAAACAAAAAAAQZgAAAAEAACAAAABdIcQhoVrIP+FKECmpnhoR31BbrO1eTSN7H2kKjtunuwAAAAAOgAAAAAIAACAAAACRtPzXJSa78gIV8r1WxWN0E8A7B4J4sPudrqYBL3tIb0AAAAA7Z3adOq/wmt3FkE7C/Hvq0XyL8GX2SH2dbBKS9azdjbRrtSmT7b+dEmwXyvWRAoa7UEw3Qwgf6RGEm0HR9DQwQAAAALzrVYmGoZZGlKajI3LKNmUHNPf6AJESZXuhDQfQgiCftCZF5y7jwebFjKvRDS0Sm4nyx9CS1bvPHPeBlLir3nY=</EncryptedPassword>
+    <_PublishTargetUrl>D:\published</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="0.chunk.js">
+      <publishTime>03/27/2017 00:59:23</publishTime>
+    </File>
+    <File Include="angularApp/app/about/about.module.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/about/about.module.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/about/about.routes.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/about/about.routes.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/about/components/about.component.html">
+      <publishTime>03/26/2017 20:11:00</publishTime>
+    </File>
+    <File Include="angularApp/app/about/components/about.component.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/about/components/about.component.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.component.html">
+      <publishTime>03/26/2017 20:11:00</publishTime>
+    </File>
+    <File Include="angularApp/app/app.component.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.component.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.component.scss">
+      <publishTime>03/26/2017 20:11:00</publishTime>
+    </File>
+    <File Include="angularApp/app/app.constants.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.constants.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.module.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.module.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.routes.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/app.routes.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/core/core.module.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/core/core.module.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/core/services/thing-data.service.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/core/services/thing-data.service.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/home/components/home.component.html">
+      <publishTime>03/26/2017 20:11:01</publishTime>
+    </File>
+    <File Include="angularApp/app/home/components/home.component.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/home/components/home.component.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/home/home.module.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/home/home.module.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/home/home.routes.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/home/home.routes.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/models/thing.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/models/thing.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/components/customfooter/customfooter.component.html">
+      <publishTime>03/26/2017 20:11:01</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/components/customfooter/customfooter.component.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/components/customfooter/customfooter.component.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/components/navigation/navigation.component.html">
+      <publishTime>03/26/2017 20:11:02</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/components/navigation/navigation.component.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/components/navigation/navigation.component.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/shared.module.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/app/shared/shared.module.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/images/damienbod.jpg">
+      <publishTime>03/26/2017 20:11:03</publishTime>
+    </File>
+    <File Include="angularApp/images/fabianGosebrink.jpg">
+      <publishTime>03/26/2017 20:11:03</publishTime>
+    </File>
+    <File Include="angularApp/images/RobertoSimonetti.jpg">
+      <publishTime>03/26/2017 20:11:03</publishTime>
+    </File>
+    <File Include="angularApp/index.html">
+      <publishTime>03/26/2017 20:11:03</publishTime>
+    </File>
+    <File Include="angularApp/main.js">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/main.js.map">
+      <publishTime>03/26/2017 20:27:53</publishTime>
+    </File>
+    <File Include="angularApp/style/app.scss">
+      <publishTime>03/26/2017 20:11:03</publishTime>
+    </File>
+    <File Include="app.bundle.js">
+      <publishTime>03/27/2017 00:59:23</publishTime>
+    </File>
+    <File Include="assets/0.chunk.js">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/app.bundle.js">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/damienbod.jpg">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/fabianGosebrink.jpg">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/glyphicons-halflings-regular-448c34.woff2">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/glyphicons-halflings-regular-898896.svg">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/glyphicons-halflings-regular-e18bbf.ttf">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/glyphicons-halflings-regular-f4769f.eot">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/glyphicons-halflings-regular-fa2772.woff">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/index.html">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/polyfills.bundle.js">
+      <publishTime>03/28/2017 12:35:05</publishTime>
+    </File>
+    <File Include="assets/RobertoSimonetti.jpg">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="assets/vendor.bundle.js">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>04/02/2014 18:40:18</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>09/19/2014 16:32:52</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.WebApi.dll">
+      <publishTime>02/14/2015 10:54:04</publishTime>
+    </File>
+    <File Include="bin/repositories.dll">
+      <publishTime>03/27/2017 00:33:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/07/2017 10:56:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>03/07/2017 10:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>03/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>03/07/2017 10:56:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>03/07/2017 10:56:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/07/2017 10:56:10</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 17:32:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>01/28/2015 04:01:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>01/28/2015 04:03:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 17:32:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 17:33:46</publishTime>
+    </File>
+    <File Include="bin/VehicleTracking.dll">
+      <publishTime>03/28/2017 12:35:07</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>10/05/2016 13:11:52</publishTime>
+    </File>
+    <File Include="damienbod.jpg">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="dist/0.chunk.js">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="dist/app.bundle.js">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="dist/damienbod.jpg">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/fabianGosebrink.jpg">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/glyphicons-halflings-regular-448c34.woff2">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/glyphicons-halflings-regular-898896.svg">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/glyphicons-halflings-regular-e18bbf.ttf">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/glyphicons-halflings-regular-f4769f.eot">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/glyphicons-halflings-regular-fa2772.woff">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/index.html">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="dist/polyfills.bundle.js">
+      <publishTime>03/28/2017 12:35:05</publishTime>
+    </File>
+    <File Include="dist/RobertoSimonetti.jpg">
+      <publishTime>03/28/2017 12:25:06</publishTime>
+    </File>
+    <File Include="dist/vendor.bundle.js">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="fabianGosebrink.jpg">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/12/2017 17:06:52</publishTime>
+    </File>
+    <File Include="glyphicons-halflings-regular-448c34.woff2">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="glyphicons-halflings-regular-898896.svg">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="glyphicons-halflings-regular-e18bbf.ttf">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="glyphicons-halflings-regular-f4769f.eot">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="glyphicons-halflings-regular-fa2772.woff">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>03/28/2017 12:35:04</publishTime>
+    </File>
+    <File Include="package.json">
+      <publishTime>03/26/2017 20:11:04</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/17/2017 01:29:59</publishTime>
+    </File>
+    <File Include="polyfills.bundle.js">
+      <publishTime>03/27/2017 00:59:23</publishTime>
+    </File>
+    <File Include="RobertoSimonetti.jpg">
+      <publishTime>03/27/2017 01:01:57</publishTime>
+    </File>
+    <File Include="tsconfig-aot.json">
+      <publishTime>03/26/2017 20:11:09</publishTime>
+    </File>
+    <File Include="tsconfig.json">
+      <publishTime>03/26/2017 20:11:04</publishTime>
+    </File>
+    <File Include="tslint.json">
+      <publishTime>03/26/2017 20:11:09</publishTime>
+    </File>
+    <File Include="VehicleTracking.wpp.targets">
+      <publishTime>03/26/2017 21:14:51</publishTime>
+    </File>
+    <File Include="vendor.bundle.js">
+      <publishTime>03/27/2017 00:59:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/18/2017 13:18:01</publishTime>
+    </File>
+    <File Include="webpack.config.js">
+      <publishTime>03/26/2017 21:10:22</publishTime>
+    </File>
+    <File Include="webpack.dev.js">
+      <publishTime>03/26/2017 20:14:23</publishTime>
+    </File>
+    <File Include="webpack.helpers.js">
+      <publishTime>03/26/2017 20:11:09</publishTime>
+    </File>
+    <File Include="webpack.prod.js">
+      <publishTime>03/26/2017 20:11:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
